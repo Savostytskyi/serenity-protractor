@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Application shell commands for Angular start","Get 'Install the Angular CLI' command from the 'The Application Shell' tutorial                 # scenario 1","SUCCESS","2018-06-18T12:53:06.223+02:00[Europe/Belgrade]","0.0","2.83"
+"Application shell commands for Angular start","Get 'Create a new application' command from the 'The Application Shell' tutorial                # scenario 2","SUCCESS","2018-06-18T12:53:09.066+02:00[Europe/Belgrade]","0.0","0.68"
